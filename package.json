@@ -1,0 +1,1 @@
+{"name":"people-pulse-radar-data","type":"module","private":true,"scripts":{"collect":"node collect.mjs"}}
